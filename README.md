@@ -120,6 +120,7 @@ TimeLoom/
 
 How to Run Locally
 1. Create virtual environment
+```text
 python -m venv venv
 
 2. Activate (Windows PowerShell)
