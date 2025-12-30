@@ -1,5 +1,8 @@
 # 🎐 TimeLoom
 
+## 🚀 Live Demo
+🔗 https://timeloom-u3luqonugy7rccfnktr3cn.streamlit.app
+
 TimeLoom is a **time-simulation conversational system** designed to explore the **past, present, and plausible futures** through structured, scenario-based reasoning.
 
 It does **not predict the future**.  
