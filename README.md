@@ -118,27 +118,31 @@ TimeLoom/
 ├── requirements.txt
 └── README.md
 
-How to Run Locally
+```
+## How to Run Locally
+
 1. Create virtual environment
-```text
+````
 python -m venv venv
-
+````
 2. Activate (Windows PowerShell)
+````
 venv\Scripts\activate
-
+````
 3. Install dependencies
+````
 pip install -r requirements.txt
-
+````
 4. Set API key
-
 Create a .env file:
-
+````
 GEMINI_API_KEY=your_api_key_here
-
+````
 5. Run Streamlit UI
+````
 streamlit run ui/streamlit_app.py
-
-Example Questions
+````
+## Example Questions:
 
 “How could AI influence education by 2035?”
 
@@ -148,24 +152,8 @@ Example Questions
 
 “How could that impact teachers?” (follow-up with memory)
 
-Future Improvements (Planned)
 
-Persona cards in UI
+## Author:
 
-Timeline visualization
+# Built by Swetha S
 
-Fine-grained scenario controls
-
-Optional deployment to Streamlit Cloud
-
-Author
-
-Built by Swetha
-
-As a hands-on exploration of:
-
-Responsible AI design
-
-Simulation-based reasoning
-
-Full-stack AI application development
