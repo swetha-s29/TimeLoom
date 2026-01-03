@@ -65,15 +65,6 @@ Each persona has:
 
 ---
 
-### 🖥 Interactive UI (Streamlit)
-- Dark, gradient-based interface (blue → teal)
-- Chat-style layout (user on right, assistant on left)
-- Persona & mode selection
-- Session controls and export
-- Custom branding support
-
----
-
 ## Safety & Design Philosophy
 
 TimeLoom **intentionally avoids**:
