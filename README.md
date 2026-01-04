@@ -8,6 +8,8 @@ TimeLoom is a **time-simulation conversational system** designed to explore the 
 It does **not predict the future**.  
 Instead, it simulates outcomes based on **current trends, historical context, and cause-effect logic**, making it suitable for exploratory thinking, learning, and what-if analysis.
 
+<img width="1910" height="988" alt="Screenshot 2025-12-31 024206" src="https://github.com/user-attachments/assets/13f16673-063d-4c1d-86cf-666a0cbbe3d8" />
+
 ---
 
 ## Why TimeLoom?
